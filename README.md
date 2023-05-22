@@ -24,7 +24,7 @@ doanh giúp tạo ra doanh thu cho công ty cũng vừa là nơi quảng bá nh�
 6. Mở trình duyệt web ->url : http://localhost:8888/phpmyadmin
 7. Nhập -> shopquanao.sql vào.
 8. Mở trình duyệt web -> url : http://localhost:8888/login.php.
-9. Đăng Nhập tài khoản test : huynhtaitri@gmail.com - huynhtaitri
+9. Đăng Nhập tài khoản test : huynhcongchanh@gmail.com - huynhcongchanh
 10. Vì tài khoản test là admin nên sẽ có trang admin trên thanh menu để có thể truy cập vào các chức năng của admin.
 
 🔥 HƯỚNG DẪN SỬ DỤNG TRANG WEB:
